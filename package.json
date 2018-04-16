@@ -1,20 +1,39 @@
 {
-  "name": "react-native-google-analytics-bridge",
-  "version": "5.0.0",
-  "description": "React Native bridge for using native Google Analytics libraries on iOS and Android",
-  "main": "./index.js",
-  "scripts": {
-    "test": "echo \"Error: no test yet!\" && exit 0"
+  "_args": [
+    [
+      "react-native-google-analytics-bridge@5.0.1",
+      "/Users/Emile_Bex/Project/RAGTSemences/RAGTMobile"
+    ]
+  ],
+  "_from": "react-native-google-analytics-bridge@5.0.1",
+  "_id": "react-native-google-analytics-bridge@5.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-tLTrAOExbRqqnwIwSRI1X4pXl+I=",
+  "_location": "/react-native-google-analytics-bridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-google-analytics-bridge@5.0.1",
+    "name": "react-native-google-analytics-bridge",
+    "escapedName": "react-native-google-analytics-bridge",
+    "rawSpec": "5.0.1",
+    "saveSpec": null,
+    "fetchSpec": "5.0.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/idehub/react-native-google-analytics-bridge.git"
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-analytics-bridge/-/react-native-google-analytics-bridge-5.0.1.tgz",
+  "_spec": "5.0.1",
+  "_where": "/Users/Emile_Bex/Project/RAGTSemences/RAGTMobile",
+  "author": {
+    "name": "Idéhub AS"
   },
-  "author": "Idéhub AS",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/idehub/react-native-google-analytics-bridge/issues"
   },
+  "description": "React Native bridge for using native Google Analytics libraries on iOS and Android",
   "homepage": "https://github.com/idehub/react-native-google-analytics-bridge#readme",
   "keywords": [
     "react",
@@ -30,5 +49,16 @@
     "react-native",
     "ios",
     "android"
-  ]
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "react-native-google-analytics-bridge",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idehub/react-native-google-analytics-bridge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test yet!\" && exit 0"
+  },
+  "version": "5.0.1"
 }
